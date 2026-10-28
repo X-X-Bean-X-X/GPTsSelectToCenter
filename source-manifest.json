@@ -1,0 +1,49 @@
+{
+  "modId": 138166,
+  "version": "1.0",
+  "author": "X_Bean_X",
+  "publishedDllSha256": "996d0670948bc01423b1637c9039bfe8e94362c92bce2f932f0ff874ec152f67",
+  "publishedPdbSha256": "181cb7e2580bea1ff1822d783342f87f1d0116fc93f5ef069688f779984b4b6a",
+  "publishedPdbSourceChecksums": {
+    "AutoCenterSelectionSystem.cs": "622f88b1de6a20deeabf1d0cf875d1353b15e984d1dbfbbdecff3f0fe74a7c06",
+    "Mod.cs": "d0a531135dad67296e6b5bd07be4c3a8908815a472e9a83bf4f97cc7ea05dce0",
+    "Setting.cs": "ba4b5c1a6cda27ec4277d10c15031561ee689a531363e189cad7aa6fb9ec3638"
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 50,
+      "sha256": "6bd423a0cadf5c52eda4a598f0fd45d4af65cdc496fde405b2dfd5863c5e8c47"
+    },
+    {
+      "path": "AutoCenterSelectionSystem.cs",
+      "size": 5629,
+      "sha256": "622f88b1de6a20deeabf1d0cf875d1353b15e984d1dbfbbdecff3f0fe74a7c06"
+    },
+    {
+      "path": "FollowZMouse.csproj",
+      "size": 2055,
+      "sha256": "1b8c6219f22880e8263d9f0fe23d1ff111060bb23c8f1d07082a13db6921aace"
+    },
+    {
+      "path": "FollowZMouse.slnx",
+      "size": 67,
+      "sha256": "511bb69d2a5851475550830e62d3d9787c84218b64c7d1bab25a84497652f4ee"
+    },
+    {
+      "path": "Mod.cs",
+      "size": 2699,
+      "sha256": "d0a531135dad67296e6b5bd07be4c3a8908815a472e9a83bf4f97cc7ea05dce0"
+    },
+    {
+      "path": "README.md",
+      "size": 2726,
+      "sha256": "ba282d39d4ac9532a01f1e08491519b1dfec0477e498a71e72bdc03fa893f9df"
+    },
+    {
+      "path": "Setting.cs",
+      "size": 4304,
+      "sha256": "ba4b5c1a6cda27ec4277d10c15031561ee689a531363e189cad7aa6fb9ec3638"
+    }
+  ]
+}
