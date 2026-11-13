@@ -1,0 +1,16 @@
+{
+  "version": "1.0.2",
+  "targetGame": "1.6.4f1",
+  "date": "2026-11-13",
+  "status": "Published and public download verified",
+  "validation": "Seven live selection checks passed: disabled behavior, persistent focus, deselection release, automatic centering and release, unarmed selection, arm consumption, and disabling active focus. Native Shift+Alt+Z arming passed through a Unity Input System keyboard-event fixture. Desktop-injected shortcut delivery was unreliable; a physical-keyboard check was not performed.",
+  "files": {
+    "FollowZMouse.dll": "6f2a9c9fd3e2a0fb3952a37685b0cfbb47c364687767ee857fe3017025f33840",
+    "FollowZMouse_win_x86_64.dll": "d8a75ec262e53d0b22283be5fcea63785a152b791ce8f47a4dd5ef435eb56946"
+  },
+  "limitations": [
+    "Controlled disposable QA city; not a large populated-city soak test.",
+    "Physical keyboard shortcut not independently checked.",
+    "No broad compatibility claim for every other mod."
+  ]
+}
