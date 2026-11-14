@@ -42,4 +42,4 @@ Built against Cities: Skylines II 1.6.4f1. Assembly, file and release versions n
 
 ## 1.0.3 naming correction
 
-Options and key-binding labels now use **GPT's Select to Center**. The full public name is **GPT's Select to Center by X_Bean_X**. Rebuilt and officially postprocessed against 1.6.4f1. This naming-only candidate has not had a new in-game test; the 1.0.2 gameplay validation above is historical. Publication is pending.
+Options and key-binding labels now use **GPT's Select to Center**. The full public name is **GPT's Select to Center by X_Bean_X**. Rebuilt and officially postprocessed against 1.6.4f1. This naming-only release has not had a new in-game test; the 1.0.2 gameplay validation above is historical. Published to the existing Paradox Mods listing on November 13, 2026. Public name, X_Bean_X author, Public visibility, 1.0.3 version, 1.6.4f1 compatibility metadata and anonymous download hashes were verified.

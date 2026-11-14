@@ -5,8 +5,7 @@
   "version": "1.0.3",
   "assemblyVersion": "1.0.3.0",
   "targetGame": "1.6.4f1",
-  "published": false,
-  "publicationBlocker": "Awaiting the authorized X_Bean_X publisher session",
+  "published": true,
   "buildValidation": "Official 1.6.4f1 postprocessor passed; decompiled packaged DLL confirms all three corrected locale strings. Mod.cs and AutoCenterSelectionSystem.cs byte-identical to tested 1.0.2 source.",
   "runtimeValidation": "Not repeated for this text-only release. Historical 1.0.2 gameplay checks are recorded in validation-1.6.4f1.json.",
   "files": {
@@ -17,5 +16,21 @@
     "Mod.cs": "2157ac744b06a1fe6e89c5e1de83ab3cf287f5662df48ee9cad0d6e9211a3731",
     "Setting.cs": "f3e5bc1a5e87f00080ede91682b07fd5b339828b6ab420018a1a46969fc63752",
     "AutoCenterSelectionSystem.cs": "622f88b1de6a20deeabf1d0cf875d1353b15e984d1dbfbbdecff3f0fe74a7c06"
+  },
+  "publicVerification": {
+    "displayName": "GPT's Select to Center by X_Bean_X",
+    "userModVersion": "1.0.3",
+    "modVersion": "3",
+    "requiredVersion": "1.6.4f1",
+    "author": "X_Bean_X",
+    "acl": "public",
+    "state": "published",
+    "updating": false,
+    "filesMatch": true,
+    "files": {
+      "FollowZMouse.dll": "78c09e70beccd35a37dcecfd10896a687b1ab8cea594e47718087d31a726ca0c",
+      "FollowZMouse_win_x86_64.dll": "b102028f14fb97df699f02d28d727aeb8b9622e733af5d904885dff9e3fe27d9"
+    },
+    "anonymousDownloadVerified": true
   }
 }
