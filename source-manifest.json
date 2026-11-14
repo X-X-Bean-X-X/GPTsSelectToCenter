@@ -1,17 +1,21 @@
 {
   "id": 138166,
-  "version": "1.0.2",
+  "displayName": "GPT's Select to Center by X_Bean_X",
+  "optionsLabel": "GPT's Select to Center",
+  "version": "1.0.3",
+  "assemblyVersion": "1.0.3.0",
   "targetGame": "1.6.4f1",
-  "runtimeValidation": "passed within documented test scope",
-  "published": true,
+  "published": false,
+  "publicationBlocker": "Awaiting the authorized X_Bean_X publisher session",
+  "buildValidation": "Official 1.6.4f1 postprocessor passed; decompiled packaged DLL confirms all three corrected locale strings. Mod.cs and AutoCenterSelectionSystem.cs byte-identical to tested 1.0.2 source.",
+  "runtimeValidation": "Not repeated for this text-only release. Historical 1.0.2 gameplay checks are recorded in validation-1.6.4f1.json.",
   "files": {
-    "FollowZMouse.dll": "6f2a9c9fd3e2a0fb3952a37685b0cfbb47c364687767ee857fe3017025f33840",
-    "FollowZMouse_win_x86_64.dll": "d8a75ec262e53d0b22283be5fcea63785a152b791ce8f47a4dd5ef435eb56946"
+    "FollowZMouse.dll": "78c09e70beccd35a37dcecfd10896a687b1ab8cea594e47718087d31a726ca0c",
+    "FollowZMouse_win_x86_64.dll": "b102028f14fb97df699f02d28d727aeb8b9622e733af5d904885dff9e3fe27d9"
   },
-  "validation": "Seven live selection checks passed: disabled behavior, persistent focus, deselection release, automatic centering and release, unarmed selection, arm consumption, and disabling active focus. Native Shift+Alt+Z arming passed through a Unity Input System keyboard-event fixture. Desktop-injected shortcut delivery was unreliable; a physical-keyboard check was not performed.",
   "sources": {
-    "AutoCenterSelectionSystem.cs": "622f88b1de6a20deeabf1d0cf875d1353b15e984d1dbfbbdecff3f0fe74a7c06",
     "Mod.cs": "2157ac744b06a1fe6e89c5e1de83ab3cf287f5662df48ee9cad0d6e9211a3731",
-    "Setting.cs": "ba4b5c1a6cda27ec4277d10c15031561ee689a531363e189cad7aa6fb9ec3638"
+    "Setting.cs": "f3e5bc1a5e87f00080ede91682b07fd5b339828b6ab420018a1a46969fc63752",
+    "AutoCenterSelectionSystem.cs": "622f88b1de6a20deeabf1d0cf875d1353b15e984d1dbfbbdecff3f0fe74a7c06"
   }
 }

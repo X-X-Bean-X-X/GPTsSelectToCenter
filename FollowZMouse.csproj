@@ -2,9 +2,9 @@
 
 	<PropertyGroup>
 		<Configurations>Debug;Release</Configurations>
-        <Version>1.0.2</Version>
-        <AssemblyVersion>1.0.2.0</AssemblyVersion>
-        <FileVersion>1.0.2.0</FileVersion>
+        <Version>1.0.3</Version>
+        <AssemblyVersion>1.0.3.0</AssemblyVersion>
+        <FileVersion>1.0.3.0</FileVersion>
         <Company>X_Bean_X</Company>
         <Product>GPT's Select to Center by X_Bean_X</Product>
 	</PropertyGroup>

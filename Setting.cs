@@ -71,7 +71,7 @@ namespace SelectToCenter
         {
             return new Dictionary<string, string>
             {
-                { m_Setting.GetSettingsLocaleID(), "Select to Center" },
+                { m_Setting.GetSettingsLocaleID(), "GPT's Select to Center" },
                 { m_Setting.GetOptionTabLocaleID(Setting.kSection), "Main" },
 
                 { m_Setting.GetOptionGroupLocaleID(Setting.kGeneralGroup), "General" },
@@ -90,10 +90,10 @@ namespace SelectToCenter
                 { m_Setting.GetOptionDescLocaleID(nameof(Setting.ArmNextSelectionBinding)), "Press SHIFT + ALT + Z, then select an object to center it" },
 
                 { m_Setting.GetOptionLabelLocaleID(nameof(Setting.ResetBindings)), "Reset key bindings" },
-                { m_Setting.GetOptionDescLocaleID(nameof(Setting.ResetBindings)), "Reset all Select to Center key bindings." },
+                { m_Setting.GetOptionDescLocaleID(nameof(Setting.ResetBindings)), "Reset all GPT's Select to Center key bindings." },
 
                 { m_Setting.GetBindingKeyLocaleID(Mod.kArmActionName), "Arm next selection key" },
-                { m_Setting.GetBindingMapLocaleID(), "Select to Center key bindings" },
+                { m_Setting.GetBindingMapLocaleID(), "GPT's Select to Center key bindings" },
             };
         }
 
